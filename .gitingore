@@ -50,3 +50,5 @@ tests/*.auto.tfvars
 .idea
 .DS_Store
 **/.idea/*
+
+.terraform
